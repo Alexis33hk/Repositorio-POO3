@@ -4,8 +4,8 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("PRIMEROS COMANDOS DE GIT");
-        //Danilo Steven Mesa Guerra (PYTHON)//
 
+        System.out.println("Danilo Steven Mesa Guerra (PYTHON)");
 
 
 
